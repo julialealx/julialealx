@@ -21,4 +21,4 @@ Estou sempre buscando aprender mais e me aprimorar na área de tecnologia. Se vo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julialeals)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliaileals@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-julialeal_pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/julialeal_pink)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/julialealx)
