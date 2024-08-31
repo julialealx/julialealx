@@ -1,19 +1,19 @@
-# Hi, guys! 👋 
+# Salve, guys! 👋 
 
-Tenho 23 anos e moro em Porto Alegre, RS. Sou apaixonada por tecnologia e sempre gostei muito de computadores e videogames, que são minhas maiores paixões! 💻🎮
+Tenho 23 anos e moro em Porto Alegre, RS. Sou apaixonada por tecnologia e sempre gostei muito de computadores e videogames, que são minhas maiores paixões! 
 
-Atualmente, faço faculdade de Análise e Desenvolvimento de Sistemas. 💻✨ 
+Atualmente, faço faculdade de Análise e Desenvolvimento de Sistemas. 
 
 ## Sobre Mim
 
-- **Interesses**: Programação back-end, desenvolvimento de software e desenvolvimento de jogos. 💻🔧🎮
+- **Interesses**: Programação back-end, desenvolvimento de software e desenvolvimento de jogos. 
 - **Hobbies**: Jogar videogames 🎮 e academia 🏋️‍♀️.
 
 ## Jogos Favoritos
 
-- *The Last of Us* 🌿🦠
-- *Life is Strange* 🌈📖
-- *Valorant* 🎯🔥 (Amo e Odeio!)
+- *The Last of Us* 
+- *Life is Strange* 
+- *Valorant* (Amo e Odeio!)
 
 ## Contato
 
