@@ -15,8 +15,6 @@ Atualmente, faço faculdade de Análise e Desenvolvimento de Sistemas. 💻✨
 - *Life is Strange* 🌈📖
 - *Valorant* 🎯🔥 (Amo e Odeio!)
 
-Estou sempre buscando aprender mais e me aprimorar na área de tecnologia. Se você quiser bater um papo sobre programação ou videogames, fique à vontade para me contatar!
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julialeals)
