@@ -1,19 +1,23 @@
-# Salve, guys! 👋 
+# 👩‍💻 Sobre mim
 
-Tenho 23 anos e moro em Porto Alegre, RS. Sou apaixonada por tecnologia e sempre gostei muito de computadores e videogames, que são minhas maiores paixões! 
+Olá! Me chamo **Julia Leal**, sou estudante de **Análise e Desenvolvimento de Sistemas** pela Unisinos e apaixonada por tecnologia, desenvolvimento de software e videogames. Sempre fui curiosa com computadores e jogos, e hoje busco transformar essa paixão em carreira, pois acredito no poder da tecnologia e dos games para conectar pessoas e contar histórias inesquecíveis.
 
-Atualmente, faço faculdade de Análise e Desenvolvimento de Sistemas. 
+🎓 Atualmente, tenho conhecimentos sólidos em **Java**, adquiridos no programa **Geração Caldeira**, onde desenvolvi projetos utilizando:
+- Programação orientada a objetos (herança, polimorfismo, encapsulamento)
+- Estruturas de dados (arrays, listas)
+- Criação de **APIs** integradas com **PostgreSQL**
+- **Testes unitários** com **JUnit**
+- Metodologias ágeis com **Scrum**
 
-## Sobre Mim
+🌱 Também tenho conhecimentos básicos em:
+- **JavaScript**
+- **HTML e CSS**
+- **Power BI**
+- **Python**
 
-- **Interesses**: Programação back-end, desenvolvimento de software e desenvolvimento de jogos. 
-- **Hobbies**: Jogar videogames 🎮 e academia 🏋️‍♀️.
+🚀 Estou em busca da **minha primeira oportunidade como desenvolvedora**, com vontade de aprender, crescer profissionalmente e contribuir com soluções que gerem impacto real.
 
-## Jogos Favoritos
-
-- *The Last of Us* 
-- *Life is Strange* 
-- *Valorant* (Amo e Odeio!)
+---
 
 ## Contato
 
